@@ -1,5 +1,5 @@
 # Terminal command used & learned
-Here are the list of command used during the [Beginner Boost](http://rws.gg) **Linux Command Line** course.
+Here are the list of command used during the [Beginner Boost](http://rwx.gg) **Linux Command Line** course.
 
 # pwd
 Locate where we are
