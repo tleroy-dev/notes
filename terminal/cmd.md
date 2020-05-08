@@ -1,7 +1,7 @@
 # Terminal command used & learned
 Here are the list of command used during the [Beginner Boost](http://rwx.gg) **Linux Command Line** course.
 
-# pwd
+## pwd
 Locate where we are
 ```
 pwd
@@ -13,7 +13,7 @@ Clear the screen of the terminal
 clear
 ```
 
-# ls
+## ls
 ```
 ls
 ```
@@ -29,7 +29,7 @@ ll
 la
 ```
 
-# cd
+## cd
 Go under a certain path of the filesystem
 ```
 cd /valid/path/to/somewhere/
@@ -38,7 +38,7 @@ cd ~
 cd /
 ```
 
-# touch
+## touch
 Create a new file if does not exist.
 If it exist, edit the last time touched.
 ```
@@ -50,4 +50,11 @@ Create a new directory
 ```
 mkdir my_dir
 ```
+
+## which
+Locate where a command executable is located under the file-system
+```
+which git
+```
+If does not exist return an error. Nice to test is a command is present or not.
 
