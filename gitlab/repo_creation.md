@@ -10,7 +10,7 @@ git commit -m "Initial commit"
 ## Git push using SSH
 git push --set-upstream git@gitlab.com:tleroy-dev/$$Project_name$$.git master
 
-## Git push using HTTPS
-git push --set-upstream https://gitlab.com/tleroy-dev/$$Project_name$$.git master
+## Set 'origin' to the remote repo
+git remote add origin git@gitlab.com:tleroy-dev/$$Project_name$$.git
 
 ```
